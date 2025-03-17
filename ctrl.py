@@ -27,6 +27,7 @@ class Control:
     def mul(self, a, b):
         return a*b
     
+    ## add div
     def div(self, a, b):
         return a/b
     
